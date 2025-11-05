@@ -1,6 +1,10 @@
-# Codes-Polaires
-Ce projet contient deux scripts principaux :
+Ce travail correspond à un projet de Cryptographie du M1 MIC de l'université Paris Cité.
+Les auteurs sont Jonas Dos Santos et Nathan Fauvelle-Aymar
 
+# Codes-Polaires
+Ce projet contient un document pdf ainsi que 2 programmes python:
+
+- `Codes_Polaires-1.pdf` : Introduction aux codes polaires, on y trouve des définitions, théorèmes, schémas et exemples conçernant les codes polaires.
 - `polarize.py` : simule l'encodage et le décodage d’un message sur un canal BEC.
 - `visualize.py` : permet de visualiser la polarisation des canaux en fonction de leur fiabilité.
 
@@ -78,7 +82,7 @@ python3 visualize.py 4096 0.5 -s
 
 ---
 
-## 3. Sources
+## 3. Sources pour les programmes
 
 Voici les différentes sources consultées et utilisées dans le cadre des recherches sur l'encodage et le décodage.
 Certaines de ces sources ont pu servir à la compréhension d'algorithmes qui seront mentionnés lors de la soutenance, et dont nous ne proposons pas forcément d'implémentation (CA-SCL et Fast SSC Decoding)
