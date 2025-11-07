@@ -1,5 +1,4 @@
 Ce travail correspond à un projet de Cryptographie du M1 MIC de l'université Paris Cité.
-Les auteurs sont Jonas Dos Santos et Nathan Fauvelle-Aymar
 
 # Codes-Polaires
 Ce projet contient un document pdf ainsi que 2 programmes python:
@@ -9,6 +8,8 @@ Ce projet contient un document pdf ainsi que 2 programmes python:
 - `visualize.py` : permet de visualiser la polarisation des canaux en fonction de leur fiabilité.
 
 ---
+
+**Auteurs :** Dos Santos Jonas et Nathan Fauvelle-Aymar.
 
 ## 1. `polarize.py`
 
